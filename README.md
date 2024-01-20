@@ -1,2 +1,2 @@
 # demo-repo
-just for demo purpose
+readme file to test project
